@@ -1,0 +1,9 @@
+.icon{
+    margin-right:50px;
+}
+
+#toggle {
+    width: 100px;
+    height: 100%;
+    background: #ccc;
+}
